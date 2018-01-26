@@ -1,6 +1,6 @@
-## eslint学习库
+## eslint文档
 
-- [config]()
+- [config](https://github.com/pavelShen/learn-eslint/blob/master/src/config.md)
 - [rules]()
 
 ### 备注

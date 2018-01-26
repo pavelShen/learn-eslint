@@ -64,7 +64,7 @@ module.exports = {
 };
 ```
 
-## 支持的格式与优先级
+## 配置文件的支持格式与优先级
 
 优先级如下
 1. JavaScript - 使用 .eslintrc.js 然后输出一个配置对象。
