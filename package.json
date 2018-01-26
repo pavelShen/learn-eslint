@@ -1,0 +1,14 @@
+{
+  "name": "eslint-why",
+  "version": "1.0.0",
+  "description": "eslint常见报错规则及处理方案",
+  "main": "test.js",
+  "scripts": {
+    "start": "eslint --init"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.16.0"
+  }
+}
